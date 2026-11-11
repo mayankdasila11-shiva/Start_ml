@@ -1,0 +1,6 @@
+Pip is python's package manager. and python has a very large library of different
+types of code.
+numpy:The engine under everything.
+Array is when the elements are located in a line/consecutive order.
+The problem with lists and tuple and other things is that they are not stored in 
+memory in a consecutive manner and hence the data becomes difficult to access.
